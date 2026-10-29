@@ -1,0 +1,6 @@
+{
+  "name": "Yann Quran",
+  "description": "Your Daily Companion with the Holy Quran. Baca. Pahami. Amalkan. Al-Qur'an digital bernuansa Emerald & Gold dengan audio murottal, tafsir resmi, jadwal salat presisi, kompas kiblat, Surah Yasin & Tahlil, serta kumpulan doa & wirid harian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

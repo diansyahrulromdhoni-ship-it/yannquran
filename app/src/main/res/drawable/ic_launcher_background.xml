@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:pathData="M0,0h108v108h-108z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="0"
+                android:startY="0"
+                android:endX="108"
+                android:endY="108"
+                android:type="linear">
+                <item android:color="#064E3B" android:offset="0.0" />
+                <item android:color="#022C22" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Subtle luxury Islamic 8-point geometric rosette border in background -->
+    <path
+        android:strokeColor="#25D4AF37"
+        android:strokeWidth="1.2"
+        android:fillColor="#00000000"
+        android:pathData="M54,16 L65,27 L81,27 L81,43 L92,54 L81,65 L81,81 L65,81 L54,92 L43,81 L27,81 L27,65 L16,54 L27,43 L27,27 L43,27 Z" />
+    <path
+        android:strokeColor="#18D4AF37"
+        android:strokeWidth="0.8"
+        android:fillColor="#00000000"
+        android:pathData="M54,22 L86,54 L54,86 L22,54 Z" />
+</vector>

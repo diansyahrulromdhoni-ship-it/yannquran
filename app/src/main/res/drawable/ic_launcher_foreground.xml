@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Crescent Moon and Star at Top -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M54,23 C57.8,23 61.1,24.8 63.2,27.6 C60.8,27.1 58.2,27.6 56.2,29.1 C54.2,30.6 53,32.9 53,35.4 C53,36.2 53.1,37 53.4,37.8 C50.3,37 48,34.2 48,30.8 C48,26.5 50.7,23 54,23 Z" />
+    <path
+        android:fillColor="#F8FAF7"
+        android:pathData="M64,28.5 L64.8,30 L66.5,30 L65.1,31 L65.7,32.6 L64,31.6 L62.3,32.6 L62.9,31 L61.5,30 L63.2,30 Z" />
+
+    <!-- Quran Book Base (Rehal / Open Book) -->
+    <!-- Left Page -->
+    <path
+        android:fillColor="#F8FAF7"
+        android:pathData="M53,46 C44,45 34,42 29,40 C28.4,39.8 28,40.3 28,41 L28,68 C34,70 44,73 53,75 Z" />
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M53,49 C45,48 36,45 31,43 L31,69 C37,71 45,74 53,75 Z" />
+    <!-- Gold Page Trim Left -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M29,40 L31,43 L31,69 L28,68 Z" />
+
+    <!-- Right Page -->
+    <path
+        android:fillColor="#F8FAF7"
+        android:pathData="M55,46 C64,45 74,42 79,40 C79.6,39.8 80,40.3 80,41 L80,68 C74,70 64,73 55,75 Z" />
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M55,49 C63,48 72,45 77,43 L77,69 C71,71 63,74 55,75 Z" />
+    <!-- Gold Page Trim Right -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M79,40 L77,43 L77,69 L80,68 Z" />
+
+    <!-- Book Spine & Gold Ribbon Bookmark -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M53,45 L55,45 L55,75 L53,75 Z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M52,43 C53.3,42 54.7,42 56,43 L56,79 L54,77 L52,79 Z" />
+
+    <!-- Gold Text Lines on Left Page -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M34,49 C39,50 45,51 49,52 L49,53.5 C45,52.5 39,51.5 34,50.5 Z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M34,54 C39,55 45,56 49,57 L49,58.5 C45,57.5 39,56.5 34,55.5 Z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M34,59 C39,60 45,61 49,62 L49,63.5 C45,62.5 39,61.5 34,60.5 Z" />
+
+    <!-- Gold Text Lines on Right Page -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M59,52 C63,51 69,50 74,49 L74,50.5 C69,51.5 63,52.5 59,53.5 Z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M59,57 C63,56 69,55 74,54 L74,55.5 C69,56.5 63,57.5 59,58.5 Z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M59,62 C63,61 69,60 74,59 L74,60.5 C69,61.5 63,62.5 59,63.5 Z" />
+
+    <!-- Wooden Rehal / Stand -->
+    <path
+        android:fillColor="#92400E"
+        android:pathData="M36,73 L42,76 L48,84 L41,85 L33,76 Z" />
+    <path
+        android:fillColor="#78350F"
+        android:pathData="M72,73 L66,76 L60,84 L67,85 L75,76 Z" />
+    <path
+        android:fillColor="#B45309"
+        android:pathData="M48,80 L54,77 L60,80 L54,83 Z" />
+</vector>
